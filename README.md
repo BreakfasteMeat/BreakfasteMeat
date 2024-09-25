@@ -1,5 +1,8 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BreakfasteMeatanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreakfasteMeat&show_icons=true&theme=cobalt)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakfasteMeat&layout=donut-vertical&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BreakfasteMeat/BreakfasteMeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
