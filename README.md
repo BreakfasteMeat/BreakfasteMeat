@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github-readme-stats.vercel.app/apiBreakfasteMeat=anuraghazra
+https://github-readme-stats.vercel.app/apiBreakfasteMeatanuraghazra
 <!--
 **BreakfasteMeat/BreakfasteMeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
